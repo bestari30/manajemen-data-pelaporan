@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/manajemen-data-pelaporan/static/js/main.f8a92bb7.chunk.js",
+    "main.js.map": "/manajemen-data-pelaporan/static/js/main.f8a92bb7.chunk.js.map",
+    "runtime-main.js": "/manajemen-data-pelaporan/static/js/runtime-main.b047b420.js",
+    "runtime-main.js.map": "/manajemen-data-pelaporan/static/js/runtime-main.b047b420.js.map",
+    "static/css/2.0888b195.chunk.css": "/manajemen-data-pelaporan/static/css/2.0888b195.chunk.css",
+    "static/js/2.249013c9.chunk.js": "/manajemen-data-pelaporan/static/js/2.249013c9.chunk.js",
+    "static/js/2.249013c9.chunk.js.map": "/manajemen-data-pelaporan/static/js/2.249013c9.chunk.js.map",
+    "index.html": "/manajemen-data-pelaporan/index.html",
+    "static/css/2.0888b195.chunk.css.map": "/manajemen-data-pelaporan/static/css/2.0888b195.chunk.css.map",
+    "static/js/2.249013c9.chunk.js.LICENSE.txt": "/manajemen-data-pelaporan/static/js/2.249013c9.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/manajemen-data-pelaporan/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/google.bbce75f8.svg": "/manajemen-data-pelaporan/static/media/google.bbce75f8.svg",
+    "static/media/logo.d0e27845.svg": "/manajemen-data-pelaporan/static/media/logo.d0e27845.svg",
+    "static/media/index.css": "/manajemen-data-pelaporan/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b047b420.js",
+    "static/css/2.0888b195.chunk.css",
+    "static/js/2.249013c9.chunk.js",
+    "static/js/main.f8a92bb7.chunk.js"
+  ]
+}
