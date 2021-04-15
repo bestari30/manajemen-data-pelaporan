@@ -41,7 +41,19 @@ function Login(props) {
     <Grid container className={classes.container}>
       <div className={classes.logotypeContainer}>
         {/* <img src={logo} alt="logo" className={classes.logotypeImage} /> */}
-        <Typography className={classes.logotypeText}>Manajemen Data</Typography>
+        <Typography className={classes.logotypeText}>
+        <span style={{color: "#cde0cc", fontWeight: "bold"}}>
+            Sen
+          </span>
+          <span style={{color: "white", fontWeight: "bold"}}>
+            ta
+          </span>
+        </Typography>
+        <Typography variant="h6" weight="medium" className={classes.logotype}>
+          <span style={{color: "white"}}>
+            Sentral Data
+          </span>
+        </Typography>
       </div>
       <div className={classes.formContainer}>
         <div className={classes.form}>

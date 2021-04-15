@@ -104,7 +104,12 @@ const Header = ({ classes, isSidebarOpened, toggleSidebar, ...props }) => (
         )}
       </IconButton>
       <Typography variant="h6" weight="medium" className={classes.logotype}>
-        Manajemen Data
+      <span style={{color: "#cde0cc", fontWeight: "bold"}}>
+            Sen
+          </span>
+          <span style={{color: "white", fontWeight: "bold"}}>
+            ta
+          </span>
       </Typography>
       <div className={classes.grow} />
       <div
