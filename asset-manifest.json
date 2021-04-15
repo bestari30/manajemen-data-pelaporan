@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/manajemen-data-pelaporan/static/js/main.f8a92bb7.chunk.js",
-    "main.js.map": "/manajemen-data-pelaporan/static/js/main.f8a92bb7.chunk.js.map",
+    "main.js": "/manajemen-data-pelaporan/static/js/main.5cd44336.chunk.js",
+    "main.js.map": "/manajemen-data-pelaporan/static/js/main.5cd44336.chunk.js.map",
     "runtime-main.js": "/manajemen-data-pelaporan/static/js/runtime-main.b047b420.js",
     "runtime-main.js.map": "/manajemen-data-pelaporan/static/js/runtime-main.b047b420.js.map",
     "static/css/2.0888b195.chunk.css": "/manajemen-data-pelaporan/static/css/2.0888b195.chunk.css",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b047b420.js",
     "static/css/2.0888b195.chunk.css",
     "static/js/2.249013c9.chunk.js",
-    "static/js/main.f8a92bb7.chunk.js"
+    "static/js/main.5cd44336.chunk.js"
   ]
 }
